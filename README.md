@@ -1,4 +1,4 @@
 ## extra_progressbar
 
 Barra de progresso estilo CDA. 
-![img](https://prnt.sc/1wk0sa3)
+![img](https://imgur.com/hWJUr4s)
