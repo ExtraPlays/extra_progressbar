@@ -1,5 +1,7 @@
 fx_version "adamant"
- game "gta5" 
+game "gta5" 
+
+author "ExtraPlays"
 
 client_scripts {
    "@vrp/lib/utils.lua",
